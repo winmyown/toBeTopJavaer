@@ -229,7 +229,7 @@ Java中语法糖原理、解语法糖
 
 ### 阅读源代码
 
-String、Integer、Long、Enum、BigDecimal、ThreadLocal、ClassLoader & URLClassLoader、ArrayList & LinkedList、 HashMap & LinkedHashMap & TreeMap & CouncurrentHashMap、HashSet & LinkedHashSet & TreeSet
+String、Integer、Long、Enum、BigDecimal、ThreadLocal、ClassLoader & URLClassLoader、ArrayList & LinkedList、 [HashMap](http://www.cnblogs.com/wupeixuan/p/8620173.html) & LinkedHashMap & TreeMap & CouncurrentHashMap、HashSet & LinkedHashSet & TreeSet
 
 ### Java并发编程
 
